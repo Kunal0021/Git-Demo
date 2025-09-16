@@ -1,2 +1,2 @@
 # Git-Demo
-demo for Gt
+demo for Git.
